@@ -19,8 +19,16 @@ A responsive and interactive website showcasing the Grand Egyptian Museum, built
 
 ---
 
-## 📸 Preview
-![Project Preview](images/preview.png)
+## 📸 Project Screenshots
+
+### 🏠 Home Page
+![Home](images/home.png)
+
+### ℹ️ Sign-in Section
+![Sign-in](images/sign-in.png)
+
+### 📱 Tickets section
+![Tickets](images/tickets.png)
 ---
 
 ## 🎯 Purpose
