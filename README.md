@@ -20,7 +20,7 @@ A responsive and interactive website showcasing the Grand Egyptian Museum, built
 ---
 
 ## 📸 Preview
-![Website Preview](preview.png)
+![Website Preview](iamges/preview.png)
 
 ---
 
